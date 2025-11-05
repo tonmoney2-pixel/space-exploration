@@ -1,0 +1,46 @@
+body{
+    color: #D6C5C4;
+    text-align: center;
+    margin: 0;
+}
+.hero
+{
+    background-image: url("images/space.gif");
+    background-size: cover;
+    color: #D6C5C4;
+    height: 400px;
+    text-align: center;
+    padding: 40px 0px 40px 0px;
+    background-position: center;
+}
+.btn{
+    padding: 6px 10px;
+    background-color: white;
+    border: none;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 800;
+    color: #484E63;
+
+}
+.my-google-font{
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 1px 1px 1px white;
+}
+.underline{
+    border-bottom: 4px solid white;
+}
+#logo{
+   width: 150px;
+}
+.footer{
+
+    font-family: "Orbitron", sans-serif;
+    font-weight: 800
+    ;
+}
+h3{
+    text-shadow: -2px 1px 1px black;
+}
