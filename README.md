@@ -1,8 +1,6 @@
-Here is a **clean, professional README** summarizing what you learned while building the **Space Exploration Application** page:
 
 ---
 
-````markdown
 # 🚀 Space Exploration Recruitment Landing Page
 
 This project is a simple, responsive landing page inviting visitors to apply to join a space exploration mission. The webpage was built using **HTML and CSS**, with a focus on layout, styling, accessibility, and version control best practices.
